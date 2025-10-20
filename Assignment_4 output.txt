@@ -1,0 +1,7 @@
+C:\Users\adibh\.jdks\openjdk-23.0.2\bin\java.exe "-javaagent:E:\inteillj\IntelliJ IDEA Community Edition 2025.1.4.1\lib\idea_rt.jar=52741" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath E:\j1\out\production\j1 Assignment_4
+Initial shortest time to hospital: 20.0 minutes
+
+Traffic update: road 2->4 now slower (weight 10)
+Updated shortest time to hospital: 25.0 minutes
+
+Process finished with exit code 0
