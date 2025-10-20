@@ -1,0 +1,9 @@
+C:\Users\adibh\.jdks\openjdk-23.0.2\bin\java.exe "-javaagent:E:\inteillj\IntelliJ IDEA Community Edition 2025.1.4.1\lib\idea_rt.jar=54260" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath E:\j1\out\production\j1 Assignment_3
+Filling the boat with critical supplies...
+Took full Food (10.00 kg) → Value: 120.00
+Took full Medicine (20.00 kg) → Value: 150.00
+Took 20.00 kg of Water (fractional) → Value: 140.00
+
+ Total utility value carried: 410.0
+
+Process finished with exit code 0
