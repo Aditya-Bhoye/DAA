@@ -1,0 +1,18 @@
+C:\Users\adibh\.jdks\openjdk-23.0.2\bin\java.exe "-javaagent:E:\inteillj\IntelliJ IDEA Community Edition 2025.1.4.1\lib\idea_rt.jar=59943" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath E:\j1\out\production\j1 Assignment_5
+
+Computing Optimal Delivery Route for SwiftCargo...
+
+🔹 Stage 3: Node 4 → Next Node 6 | Edge Cost: 2.00 | Total Min Cost to Destination: 2.00
+🔹 Stage 3: Node 5 → Next Node 6 | Edge Cost: 3.00 | Total Min Cost to Destination: 3.00
+🔹 Stage 2: Node 2 → Next Node 4 | Edge Cost: 3.00 | Total Min Cost to Destination: 5.00
+🔹 Stage 2: Node 3 → Next Node 4 | Edge Cost: 2.00 | Total Min Cost to Destination: 4.00
+🔹 Stage 1: Node 1 → Next Node 2 | Edge Cost: 2.00 | Total Min Cost to Destination: 7.00
+
+Optimal Delivery Path (Stage-wise):
+Stage 1: Node 1 → Node 2 | Cost: 2.00
+Stage 2: Node 2 → Node 4 | Cost: 3.00
+Stage 3: Node 4 → Node 6 | Cost: 2.00
+
+Total Minimum Delivery Cost/Time: 7.00
+
+Process finished with exit code 0
