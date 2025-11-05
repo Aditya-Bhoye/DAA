@@ -1,0 +1,11 @@
+=== Disaster Relief Resource Allocation ===
+Truck Capacity: 50 kg
+
+>> Brute Force Result: 282
+>> DP Optimal Result: 282
+>> Greedy (approx): 282.0
+
+Items Selected (DP Optimal):
+Weight: 15  Value: 90  Perishable: false
+Weight: 20  Value: 120  Perishable: true
+Weight: 10  Value: 72  Perishable: true
