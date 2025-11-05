@@ -1,0 +1,32 @@
+--- Greedy Coloring ---
+Total Slots Required: 2
+Course 0 -> Slot 0
+Course 1 -> Slot 1
+Course 2 -> Slot 1
+Course 3 -> Slot 0
+Course 4 -> Slot 1
+Course 5 -> Slot 0
+
+--- Welsh-Powell Algorithm ---
+Total Slots Required: 2
+Course 0 -> Slot 0
+Course 1 -> Slot 1
+Course 2 -> Slot 1
+Course 3 -> Slot 0
+Course 4 -> Slot 1
+Course 5 -> Slot 0
+
+--- DSATUR Algorithm ---
+Total Slots Required: 2
+Course 0 -> Slot 0
+Course 1 -> Slot 1
+Course 2 -> Slot 1
+Course 3 -> Slot 0
+Course 4 -> Slot 1
+Course 5 -> Slot 0
+
+Room Allocation per Time Slot:
+Slot 0: Courses [0, 3, 5] assigned to 3 rooms.
+Slot 1: Courses [1, 2, 4] assigned to 3 rooms.
+
+Process finished with exit code 0
