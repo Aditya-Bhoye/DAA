@@ -115,3 +115,25 @@ public class SmartAmbulanceRouting {
         sc.close();
     }
 }
+/*
+6
+A
+B
+C
+D
+E
+F
+7
+A B 2
+B C 2
+C D 2
+A D 10
+D E 1
+E F 1
+C F 20
+2
+D
+F
+A
+
+*/
